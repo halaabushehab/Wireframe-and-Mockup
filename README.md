@@ -18,7 +18,7 @@ A traditional Vietnamese coffee shop established in Canada brings the charm of V
 #This project was designed using modern technologies to ensure performance and quality[figma].
 
   -prototyp
-  [link](https://www.figma.com/design/Qd2hXsCq4WPlyS4fcqz9UP/Wireframe-and-Mockup?node-id=56-3&t=EXak52jaoeNKn80B-1)
+  [link](https://www.figma.com/proto/Qd2hXsCq4WPlyS4fcqz9UP/Wireframe-and-Mockup?node-id=56-3&node-type=frame&t=31OB5a3LR4JJlTT1-1&scaling=min-zoom&content-scaling=fixed&page-id=56%3A2)
 
   -Wireframe +mokup
   [link](https://www.figma.com/design/Qd2hXsCq4WPlyS4fcqz9UP/Wireframe-and-Mockup?node-id=0-1&t=lcSbuKExEB8H4fAf-1)

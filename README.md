@@ -16,16 +16,12 @@ A traditional Vietnamese coffee shop established in Canada brings the charm of V
 
 
  **WIREFRAME**
-![image](wireframe.png)
-
-
-
+ 
+![wireframe](https://github.com/user-attachments/assets/bfb975c5-96c5-4752-9a67-fd7ff6f4cbe1)
 
  **MOCKUP**
-![image](MOCKUP.png)
 
-
-
+![mockup](https://github.com/user-attachments/assets/b2f44649-4f96-4e85-8af2-960aa732377b)
 
 
 # This project was designed using modern technologies to ensure performance and quality[figma].

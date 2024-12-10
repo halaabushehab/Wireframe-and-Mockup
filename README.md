@@ -16,14 +16,14 @@ A traditional Vietnamese coffee shop established in Canada brings the charm of V
 
 
  **WIREFRAME**
-![image](c:\Users\Orange\Desktop\orange programming\Wireframe-and-Mockup\wireframe.png){width=400 height=400}
-![image](c:\Users\Orange\Desktop\orange programming\Wireframe-and-Mockup\WIREFRAME2.png){width=400 height=400}
+![image](wireframe.png){width=400 height=400}
+![image](WIREFRAME2.png){width=400 height=400}
 
 
 
  **MOCKUP**
-![image](c:\Users\Orange\Desktop\orange programming\Wireframe-and-Mockup\MOCKUP.png){width=400 height=400}
-![image](c:\Users\Orange\Desktop\orange programming\Wireframe-and-Mockup\MOCKUP2.png){width=400 height=400}
+![image](MOCKUP.png){width=400 height=400}
+![image](MOCKUP2.png){width=400 height=400}
 
 
 

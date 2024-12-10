@@ -16,14 +16,14 @@ A traditional Vietnamese coffee shop established in Canada brings the charm of V
 
 
  **WIREFRAME**
-![image](wireframe.png){width=400 height=400}
-![image](WIREFRAME2.png){width=400 height=400}
+![image](wireframe.png){width=200 height=200}
+![image](WIREFRAME2.png){width=200 height=200}
 
 
 
  **MOCKUP**
-![image](MOCKUP.png){width=400 height=400}
-![image](MOCKUP2.png){width=400 height=400}
+![image](MOCKUP.png){width=200 height=200}
+![image](MOCKUP2.png){width=200 height=200}
 
 
 
